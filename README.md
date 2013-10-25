@@ -1,4 +1,4 @@
-backbone.log
+Backbone Logger
 ============
 
 Simple backbone logger, borrowed from SpineJS
