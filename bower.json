@@ -1,0 +1,24 @@
+{
+  "name": "backbone-logger",
+  "version": "0.0.1",
+  "homepage": "https://github.com/suprMax/backbone-logger",
+  "authors": [
+    "Max Degterev <me@maxdegterev.name>"
+  ],
+  "description": "Simple backbone logger, borrowed from SpineJS",
+  "main": "backbone-logger.js",
+  "keywords": [
+    "backbone",
+    "log",
+    "logger",
+    "spine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
